@@ -83,8 +83,8 @@
   <section id="services" class="section">
     <h2>Services & Prices</h2>
     <ul style="list-style: none; padding: 0;">
-      <li>Simple Mehndi: ₹100/hand</li>
-      <li>Bridal Mehndi: ₹1500+</li>
+      <li>Simple Mehndi: ₹500/hand</li>
+      <li>Bridal Mehndi: ₹3500+</li>
       <li>Pencil Sketch Portrait: ₹499</li>
       <li>Custom Artwork: ₹799+</li>
     </ul>
@@ -92,8 +92,8 @@
 
   <section id="contact" class="section">
     <h2>Book Now</h2>
-    <p>Call or WhatsApp: <strong>+91 9123456789</strong></p>
-    <a class="whatsapp" href="https://wa.me/919123456789" target="_blank">📲 Book on WhatsApp</a>
+    <p>Call or WhatsApp: <strong>+91 6386707629</strong></p>
+    <a class="whatsapp" href="https://wa.me/6386707629" target="_blank">📲 Book on WhatsApp</a>
   </section>
 
   <footer>
